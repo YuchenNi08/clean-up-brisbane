@@ -1,7 +1,7 @@
 body {
 	font-family: Arial, sans-serif;
 	color: black;
-	background-color: #31E860;
+	background-color: linear-gradient(#15B83F, #31E860);
 	margin: 0;
 	padding: 0;
 }
